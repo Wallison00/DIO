@@ -60,3 +60,25 @@
 
 ​	Pasta com conteúdo: _rm -r nome_da_pasta_
 
+**Exibir o histórico de comandos digitados no terminal**
+
+​	_history_
+
+**Ajuda do comando informado**
+
+​	_ls --help_
+
+> Informativo do comando em Português - Brasil
+
+**Exibir manual do comando**
+
+​	_man mv_
+
+**Parar a Execução do Terminal**
+
+​	_Control + Z_
+
+**Sair do Terminal**
+
+​	_Control + D_
+
